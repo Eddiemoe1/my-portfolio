@@ -1,0 +1,81 @@
+.home-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 3rem 2rem;
+  background-color: #1e1e1e;
+  border-radius: 10px;
+  display: flex;
+}
+
+.home-content {
+  max-width: 600px;
+  color: #fff;
+  text-align: left;}
+
+.home-content h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.highlight {
+  color: #007acc;
+}
+
+.subtitle {
+  color: #666;
+  margin-bottom: 1.5rem;
+  font-weight: 400;
+}
+
+.intro {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+.cta-button {
+  padding: 0.75rem 1.5rem;
+  background-color: #007acc;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #005f99;
+}
+
+.home-image img {
+  width: 690px;
+  height: auto;
+  border-radius: 550px;
+  margin-top: 1rem;
+}
+/* Nav Bar Styling */
+.nav {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  background-color: #005f99;
+  padding: 1rem 2rem;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.nav a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.nav a:hover {
+  color: #2601f8;
+}
+
