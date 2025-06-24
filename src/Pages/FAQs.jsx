@@ -17,10 +17,6 @@ function FAQs() {
         <h3>How can I reach you?</h3>
         <p>The best way is via email or through the contact page on this website.</p>
       </div>
-
-      <div className="home-image">
-        <img src="Screenshot 2025-06-19 225706.png" alt="faqs" />
-      </div>
     </div>
   );
 }

@@ -15,10 +15,6 @@ function Contact() {
         <p>Phone: +254790650233</p>
         <a href="mailto:moraaednah601@gmail.com" className="cta-button">Send Email</a>
       </div>
-
-      <div className="home-image">
-        <img src="Screenshot 2025-06-19 225706.png" alt="contact" />
-      </div>
     </div>
   );
 }

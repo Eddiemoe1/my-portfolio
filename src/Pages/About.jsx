@@ -27,9 +27,6 @@ function About() {
         </p>
       </div>
 
-      <div className="home-image">
-        <img src="Screenshot 2025-06-19 225706.png" alt="profile" />
-      </div>
     </div>
   );
 }
