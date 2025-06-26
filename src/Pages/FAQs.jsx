@@ -6,7 +6,7 @@ function FAQs() {
     <div className="home-container">
       <div className="home-content">
         <h1>FAQs</h1>
-        <p className="subtitle">Frequently Asked Questions</p>
+        
 
         <h3>🛠️ What technologies do you specialize in?</h3>
         <p>

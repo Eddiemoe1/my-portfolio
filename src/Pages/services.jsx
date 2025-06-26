@@ -6,9 +6,7 @@ function Services() {
     <div className="home-container">
       <div className="home-content">
         <h1>My Services</h1>
-        <p className="subtitle">What I can do for you</p>
        
-
         <ul className="service-list">
           <li>
             <strong>🔐 Smart Contract Development</strong><br />
