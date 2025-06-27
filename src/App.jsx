@@ -23,7 +23,6 @@ function App() {
         </div>
       </nav>
 
-      {/* Main Content Area */}
       <main className="main-content">
         <Routes>
           <Route path="/" element={<Home />} />

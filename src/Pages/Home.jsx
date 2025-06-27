@@ -23,7 +23,6 @@ function Home() {
       transition: { duration: 0.6 }
     }
   };
-
   // Scroll-triggered animations
   const [ref, inView] = useInView({
     triggerOnce: false, // Triggers every time element comes into view
