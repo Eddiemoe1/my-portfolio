@@ -23,7 +23,7 @@ function FAQs() {
 
         <h3>🎨 Do you design user interfaces as well?</h3>
         <p>
-          Yes, I offer UI/UX design services using tools like Figma, Canva, and Dreamweaver, and turn those into responsive web and mobile interfaces.
+          Yes, I offer UI/UX design services using tools like Figma, Canva, and Dreamweaver, banani and turn those into responsive web and mobile interfaces.
         </p>
 
         <h3>📩 How can I reach you?</h3>

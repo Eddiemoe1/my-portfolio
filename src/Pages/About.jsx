@@ -21,7 +21,7 @@ function About() {
           🔹 Passionate about continuous learning in crypto security, cloud computing, and automation <br />
         </p>
 
-        <h2 className="subtitle" style={{ marginTop: '2rem' }}><b>Tech Stack</b></h2>
+        <h2 className="subtitle" style={{ marginTop: '1rem' }}><b>Tech Stack</b></h2>
         <div className="icon-grid">
         
           <i className="devicon-solidity-plain colored" title="Solidity"></i>
