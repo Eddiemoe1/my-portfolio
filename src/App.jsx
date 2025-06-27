@@ -3,7 +3,7 @@ import Home from './Pages/Home';
 import About from './Pages/About';
 import Services from './Pages/services';
 import Contact from './pages/Contact';
-import FAQs from './pages/FAQs';
+import FAQs from './Pages/FAQs';
 import './App.css';
 
 function App() {

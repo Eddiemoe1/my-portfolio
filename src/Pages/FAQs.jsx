@@ -39,5 +39,4 @@ function FAQs() {
     </div>
   );
 }
-
 export default FAQs;
