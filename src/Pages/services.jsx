@@ -25,7 +25,7 @@ function Services() {
 
           <li>
             <strong>🖥️ Full-Stack Web Development</strong><br />
-            End-to-end web applications — from databases to front-end interfaces. I build fast, scalable web apps using React, Flutter, HTML5, and JavaScript, following best practices in design and development.
+            End-to-end web applications from databases to front-end interfaces. I build fast, scalable web apps using nextjs, React, Flutter, HTML5, and JavaScript, following best practices in design and development.
           </li>
 
           <li>
