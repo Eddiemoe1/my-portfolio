@@ -6,8 +6,6 @@ function FAQs() {
     <div className="home-container">
       <div className="home-content">
         <h1>FAQs</h1>
-        
-
         <h3>🛠️ What technologies do you specialize in?</h3>
         <p>
           I specialize in full-stack development with React, Node.js, C#, and .NET, along with smart contract development using Solidity, Ethereum, Hardhat, and Truffle.

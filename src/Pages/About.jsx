@@ -23,18 +23,17 @@ function About() {
 
         <h2 className="subtitle" style={{ marginTop: '2rem' }}><b>Tech Stack</b></h2>
         <div className="icon-grid">
-          {/* Blockchain */}
+        
           <i className="devicon-solidity-plain colored" title="Solidity"></i>
           <i className="devicon-ethereum-plain colored" title="Ethereum"></i>
 
-          {/* Backend & Frameworks */}
+      
           <i className="devicon-csharp-plain colored" title="C#"></i>
           <i className="devicon-dotnetcore-plain colored" title=".NET Core"></i>
           <i className="devicon-nodejs-plain colored" title="Node.js"></i>
           <i className="devicon-php-plain colored" title="PHP"></i>
           <i className="devicon-firebase-plain colored" title="Firebase"></i>
 
-          {/* Programming Languages */}
           <i className="devicon-cplusplus-plain colored" title="C++"></i>
           <i className="devicon-c-plain colored" title="C"></i>
           <i className="devicon-java-plain colored" title="Java"></i>
@@ -42,18 +41,17 @@ function About() {
           <i className="devicon-go-plain colored" title="Go"></i>
           <i className="devicon-dart-plain colored" title="Dart"></i>
 
-          {/* Frontend & UI */}
           <i className="devicon-react-original colored" title="React"></i>
           <i className="devicon-flutter-plain colored" title="Flutter"></i>
           <i className="devicon-html5-plain colored" title="HTML5"></i>
           <i className="devicon-wordpress-plain colored" title="WordPress"></i>
           <i className="devicon-figma-plain colored" title="Figma"></i>
 
-          {/* Databases */}
+       
           <i className="devicon-mysql-plain colored" title="MySQL"></i>
           <i className="devicon-sqlite-plain colored" title="SQLite"></i>
 
-          {/* Tools & Platforms */}
+     
           <i className="devicon-git-plain colored" title="Git/GitHub"></i>
           <i className="devicon-docker-plain colored" title="Docker"></i>
           <i className="devicon-azure-plain colored" title="Azure"></i>

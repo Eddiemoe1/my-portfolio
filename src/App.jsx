@@ -9,9 +9,7 @@ import './App.css';
 function App() {
   return (
     <div className="app-container">
-      {/* Left Sidebar Navigation */}
       <nav className="left-navbar">
-        {/* Profile Icon at Top (small) */}
         <div className="profile-icon-sidebar">
           <img src="Screenshot 2025-06-19 225706.png" alt="profile" />
         </div>
