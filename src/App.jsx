@@ -14,6 +14,7 @@ function App() {
           <img src="Screenshot 2025-06-19 225706.png" alt="profile" />
         </div>
         
+      
         <div className="nav-links">
           <Link to="/">Home</Link>
           <Link to="/about">About Me</Link>

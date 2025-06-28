@@ -57,6 +57,8 @@ function About() {
           <i className="devicon-azure-plain colored" title="Azure"></i>
           <i className="devicon-visualstudio-plain colored" title="Visual Studio"></i>
           <i className="devicon-vscode-plain colored" title="VS Code"></i>
+
+          
         </div>
       </div>
     </div>
